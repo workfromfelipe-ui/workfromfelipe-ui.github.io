@@ -1,0 +1,4 @@
+Copyright (c) 2026 Skintology. All rights reserved.
+
+This repository holds a private website preview. No licence is granted.
+The design, wording, images and tools may not be copied, reused or republished without written permission.
